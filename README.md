@@ -23,8 +23,8 @@ Analyzing the sales volume on a monthly basis allows us to detect any seasonal p
 This report will serve as a powerful tool for stakeholders to quickly grasp the key takeaways and make data-driven decisions.
 
 **Tools and Dataset**
-**Tools Used: Tableau Public 2023.2.1******
-**Dataset Details:- 
+Tools Used: Tableau Public 2023.2.1
+Dataset Details:- 
 • Domain: Retail
 • Datasets: Superstore.xls
-• Dataset Type: Excel Data******
+• Dataset Type: Excel Data
